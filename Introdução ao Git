@@ -1,0 +1,26 @@
+Comandos git necessários:
+- git clone (+ link do repositório)
+- git status 
+- git add .
+- git commit -m "descrição da atualização"
+- git push -u origin main 
+- git pull 
+
+É importante diferenciar Git de Github
+Git: é o sistema de comandos que nós usamos
+no cmd (prompt de comando ou "bloquinho preto" )
+para manipular esses arquivos 
+
+Github: é o site em que nós acessamos com o
+navegafor(google chrome) e onde ficam armazenados
+nossos trabalhos.
+
+O Github salva nossos projetos/trabalhos e exibe
+todas as alterações feitas por cada usuário com
+acesso ao repositório.
+Além disso, através do github nós podemos
+desenvolver um projeto juntos.
+
+Posteriormente eu vou gravar um vídeo ensinando
+cada um desses comandos na prática, mas fica esse 
+texto de apoio pra vocês 👊
